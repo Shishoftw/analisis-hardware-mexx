@@ -31,11 +31,12 @@ Anonimización Protegida: Se aplicó un factor de escala a los montos de factura
 📊 Hallazgos Estratégicos
 Anomalía en SKU Gamer (5527): Se detectó una caída del 48.9% en la facturación de febrero.
 
+<img width="1271" height="473" alt="dashboard_comparativo" src="https://github.com/user-attachments/assets/beefbffb-9f18-48b5-b270-6880c893506a" />
+
+
 Correlación de Margen: A pesar de la caída en ventas, se optó por una estrategia de Preservación de Valor, manteniendo márgenes estables en lugar de vender a pérdida frente a competidores con stock desfasado.
 
 Impacto de la Oferta: La saturación de catálogos con APUs de AMD desplazó temporalmente la demanda de configuraciones con GPUs dedicadas de entrada.
-
-<img width="736" height="649" alt="Captura de pantalla 2026-03-10 17420421" src="https://github.com/user-attachments/assets/7dd927b2-28d8-484b-b24f-c9ef1009ffc7" />
 
 
 💡 Recomendaciones
