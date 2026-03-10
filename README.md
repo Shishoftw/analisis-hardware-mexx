@@ -35,6 +35,9 @@ Correlación de Margen: A pesar de la caída en ventas, se optó por una estrate
 
 Impacto de la Oferta: La saturación de catálogos con APUs de AMD desplazó temporalmente la demanda de configuraciones con GPUs dedicadas de entrada.
 
+<img width="736" height="649" alt="Captura de pantalla 2026-03-10 17420421" src="https://github.com/user-attachments/assets/7dd927b2-28d8-484b-b24f-c9ef1009ffc7" />
+
+
 💡 Recomendaciones
 Sourcing Anticipativo: Monitorear el mercado de semiconductores para anticipar compras de stock antes de picos de demanda por IA.
 
